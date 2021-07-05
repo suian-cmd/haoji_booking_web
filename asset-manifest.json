@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/haoji_booking_web/static/css/main.0b6a732a.chunk.css",
+    "main.js": "/haoji_booking_web/static/js/main.c00d35a8.chunk.js",
+    "main.js.map": "/haoji_booking_web/static/js/main.c00d35a8.chunk.js.map",
+    "runtime-main.js": "/haoji_booking_web/static/js/runtime-main.1b1bb686.js",
+    "runtime-main.js.map": "/haoji_booking_web/static/js/runtime-main.1b1bb686.js.map",
+    "static/css/2.1d7b0c63.chunk.css": "/haoji_booking_web/static/css/2.1d7b0c63.chunk.css",
+    "static/js/2.b2cf3ac1.chunk.js": "/haoji_booking_web/static/js/2.b2cf3ac1.chunk.js",
+    "static/js/2.b2cf3ac1.chunk.js.map": "/haoji_booking_web/static/js/2.b2cf3ac1.chunk.js.map",
+    "index.html": "/haoji_booking_web/index.html",
+    "static/css/2.1d7b0c63.chunk.css.map": "/haoji_booking_web/static/css/2.1d7b0c63.chunk.css.map",
+    "static/css/main.0b6a732a.chunk.css.map": "/haoji_booking_web/static/css/main.0b6a732a.chunk.css.map",
+    "static/js/2.b2cf3ac1.chunk.js.LICENSE.txt": "/haoji_booking_web/static/js/2.b2cf3ac1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b1bb686.js",
+    "static/css/2.1d7b0c63.chunk.css",
+    "static/js/2.b2cf3ac1.chunk.js",
+    "static/css/main.0b6a732a.chunk.css",
+    "static/js/main.c00d35a8.chunk.js"
+  ]
+}
